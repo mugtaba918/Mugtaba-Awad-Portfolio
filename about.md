@@ -9,7 +9,7 @@
 <div><strong>💼 LinkedIn</strong></div>
 <div>
   <a href="https://linkedin.com/in/mugtaba-awad" target="_blank">
-    linkedin.com/in/mugtaba-awad
+https://www.linkedin.com/in/mugtaba-awad-412293368/
   </a>
 </div>
 

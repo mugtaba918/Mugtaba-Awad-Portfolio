@@ -16,6 +16,7 @@ permalink: /work/
   <a href="{{ '/contact/' | relative_url }}">Contact</a>
 </div>
 
+
 # Work
 ## Fiserv — Machine Operator  
 **Jan 2023 – Present | Omaha, NE**

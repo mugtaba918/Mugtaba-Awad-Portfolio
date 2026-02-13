@@ -1,0 +1,8 @@
+title: "Mugtaba Awad Portfolio"
+description: "Business Intelligence | Data Analytics | Data Science Projects"
+theme: jekyll-theme-minimal
+markdown: kramdown
+show_downloads: false
+include:
+  - assets
+  - projects

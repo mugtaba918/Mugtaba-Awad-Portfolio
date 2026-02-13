@@ -17,6 +17,15 @@ permalink: /work/
 </div>
 
 # Work
-Add your experience here.
+## Fiserv — Machine Operator  
+**Jan 2023 – Present | Omaha, NE**
+
+- Operate and monitor automated production systems in a regulated, high-volume environment, ensuring accuracy, efficiency, and compliance.
+- Perform quality control checks and validate production outputs using internal digital systems.
+- Document production and process data to support performance tracking and issue resolution.
+- Identify workflow inefficiencies and operational risks, supporting continuous improvement initiatives.
+- Collaborate with engineering and support teams to troubleshoot system and process issues.
+- Trained 4+ new machine operators, improving onboarding efficiency and operational performance.
+- Recognized with the **“Best of the Best”** award for excellence in productivity, quali
 
 </div>

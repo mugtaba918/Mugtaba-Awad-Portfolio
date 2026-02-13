@@ -10,7 +10,7 @@ title: About
 <div class="nav">
   <a href="index.html">Home</a>
   <a href="about.html">About</a>
-  <a href="work.html">Work</a>
+href="{{ '/work/' | relative_url }}"
   <a href="projects.html">Projects</a>
   <a href="contact.html">Contact</a>
 </div>

@@ -17,15 +17,27 @@ title: Contact
 
 # Contact
 
-If you'd like to connect about BI / data analytics opportunities, feel free to reach out.
+<div><strong>📞 Phone</strong></div>
+<div>+1-9192980464</div>
 
-<div class="kv">
-  <div><strong>Email</strong></div><div>mugtaba.nc@gmail.com</div>
-  <div><strong>LinkedIn</strong></div><div>Replace this with your LinkedIn URL</div>
-  <div><strong>GitHub</strong></div><div>Replace this with your GitHub URL</div>
+<div><strong>📧 Email</strong></div>
+<div>
+  <a href="mailto:mugtaba@email.com">mugtaba@email.com</a>
 </div>
 
-<hr>
+<div><strong>💼 LinkedIn</strong></div>
+<div>
+  <a href="https://linkedin.com/in/mugtaba-awad" target="_blank">
+https://www.linkedin.com/in/mugtaba-awad-412293368/
+  </a>
+</div>
+
+<div><strong>💻 GitHub</strong></div>
+<div>
+  <a href="https://github.com/MugtabaAwad" target="_blank">
+   https://github.com/mugtaba918
+  </a>
+</div>
 
 ## Resume
 - [Download Resume (PDF)](assets/Mugtaba_Awad_Resume.pdf)

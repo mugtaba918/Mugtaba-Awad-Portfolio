@@ -23,6 +23,7 @@ USA
 
 ## Bachelor of Science in Management Information Systems
 International Degree (Outside the United States)
+
 <hr>
 
 # About

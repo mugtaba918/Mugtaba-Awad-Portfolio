@@ -16,6 +16,7 @@ title: About
 </div>
 
 # About
+I graduated from Bellevue University with a Bachelor’s degree in Data Science and also hold a Bachelor’s degree in Management Information Systems earned outside the United States, combining strong technical analytics skills with business and information systems knowledge.
 
 Recent Data Science graduate with strong foundations in **Python, SQL, Power BI, and Tableau**. Experienced in academic and project-based work involving **data cleaning, exploratory data analysis, visualization, and introductory predictive modeling**.
 

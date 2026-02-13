@@ -1,13 +1,8 @@
 title: "Mugtaba Awad Portfolio"
 description: "Business Intelligence | Data Analytics | Data Science Projects"
-
 theme: jekyll-theme-minimal
 markdown: kramdown
 show_downloads: false
-
-# IMPORTANT: set baseurl to your repo name (exactly)
-baseurl: "/Mugtaba-Awad-Portfolio"
-url: "https://mugtaba918.github.io"
 
 include:
   - assets

@@ -19,9 +19,11 @@ title: About
 
 ## Bellevue University — Bachelor of Science in Data Science
 USA
+<hr>
 
 ## Bachelor of Science in Management Information Systems
 International Degree (Outside the United States)
+<hr>
 
 # About
 Recent Data Science graduate with strong foundations in **Python, SQL, Power BI, and Tableau**. Experienced in academic and project-based work involving **data cleaning, exploratory data analysis, visualization, and introductory predictive modeling**.

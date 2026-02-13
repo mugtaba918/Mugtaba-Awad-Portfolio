@@ -14,7 +14,8 @@ title: About
   <a href="projects.html">Projects</a>
   <a href="contact.html">Contact</a>
 </div>
-# Education
+
+## Education
 
 ## Bellevue University — Bachelor of Science in Data Science
 USA

@@ -8,12 +8,11 @@ title: Home
 <div class="wrapper">
 
 <div class="nav">
-  <a href="{{ '/' | relative_url }}">Home</a>
-  <a href="{{ '/about/' | relative_url }}">About</a>
-  <a href="{{ '/work/' | relative_url }}">Work</a>
-  <a href="{{ '/projects/' | relative_url }}">Projects</a>
-  <a href="{{ '/contact/' | relative_url }}">Contact</a>
-</div>
+  <a href="index.html">Home</a>
+  <a href="about.html">About</a>
+  <a href="work.md">Work</a>
+  <a href="projects.html">Projects</a>
+  <a href="contact.html">Contact</a>
 </div>
 
 <div class="hero">

@@ -3,24 +3,14 @@ description: "Business Intelligence | Data Analytics | Data Science Projects"
 
 theme: jekyll-theme-minimal
 markdown: kramdown
-
 show_downloads: false
 
-# Make sure Jekyll publishes these folders/files
+# IMPORTANT: set baseurl to your repo name (exactly)
+baseurl: "/Mugtaba-Awad-Portfolio"
+url: "https://mugtaba918.github.io"
+
 include:
   - assets
   - projects
-  - work.md
-  - about.md
-  - projects.md
-  - contact.md
 
-# Clean, predictable URLs (optional but recommended)
 permalink: pretty
-
-# Optional: default layout for all pages (so you don't repeat layout front matter)
-defaults:
-  - scope:
-      path: ""
-    values:
-      layout: default

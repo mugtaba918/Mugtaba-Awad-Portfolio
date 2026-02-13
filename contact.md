@@ -10,7 +10,7 @@ title: Contact
 <div class="nav">
   <a href="index.html">Home</a>
   <a href="about.html">About</a>
-  <a href="work.mdl">Work</a>
+  <a href="work.html">Work</a>
   <a href="projects.html">Projects</a>
   <a href="contact.html">Contact</a>
 </div>

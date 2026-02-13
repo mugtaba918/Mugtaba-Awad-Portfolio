@@ -40,7 +40,7 @@ https://www.linkedin.com/in/mugtaba-awad-412293368/
 </div>
 
 ## Resume
-- [Download Resume (PDF)](assets/Mugtaba_Awad_Resume.pdf)
+(assets/Mugtaba_Awad_Resume.pdf)
 
 <hr>
 

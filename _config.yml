@@ -5,11 +5,6 @@ markdown: kramdown
 show_downloads: false
 
 include:
-index.md
-about.md
-work.md
-projects.md
-contact.md
   - assets
   - projects
 

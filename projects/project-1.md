@@ -30,7 +30,4 @@ Python • SQL • Power BI • Data Quality Checks • EDA
 - Reduced reporting confusion caused by codes/placeholders  
 - Improved stakeholder confidence in analytics outputs
 
-## Dashboard Screenshot
-<img class="project-shot" src="../assets/img/project1-dashboard.png" alt="Project 1 dashboard screenshot">
-
 </div>

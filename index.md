@@ -17,7 +17,9 @@ title: Home
 
 <div class="hero">
   <div class="avatar">
-    <img src="assets/img/profile.jpg" onerror="this.onerror=null;this.src='assets/img/profile-placeholder.svg';" alt="Mugtaba Awad profile photo">
+<img class="avatar-img" src="assets/img/profile.jpg"
+     onerror="this.onerror=null;this.src='assets/img/profile-placeholder.svg';"
+     alt="Mugtaba Awad profile photo">
   </div>
   <div>
     # Mugtaba Awad  

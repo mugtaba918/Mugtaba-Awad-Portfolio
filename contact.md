@@ -44,20 +44,12 @@ https://www.linkedin.com/in/mugtaba-awad-412293368/
 
 <hr>
 
-## Optional (public site)
-If you want to show phone/address publicly, add them below.  
-Otherwise keep them private.
 
-- Phone: 919-298-0464  
-- Location: Omaha, Nebraska (recommended instead of full street address)
 
-<hr>
-
-## Quick Message Template
+##  Message 
 Hello Mugtaba,  
 I reviewed your portfolio and would like to connect regarding an opportunity.
 
 Best regards,  
-[Your Name]
-
+Mugtaba Awad
 </div>
